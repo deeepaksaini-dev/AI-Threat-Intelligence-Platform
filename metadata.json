@@ -1,0 +1,5 @@
+{
+  "name": "AI Threat File Analyzer",
+  "description": "An AI-powered web application that allows users to upload files for a comprehensive threat analysis. The tool performs static analysis, entropy checks, string extraction, and uses a generative model to predict the file's risk level, presenting the results in a clean UI and a downloadable PDF report.",
+  "requestFramePermissions": []
+}
